@@ -8,19 +8,192 @@ Recitations seek to parallel Monday's lectures. However, recitations focus on sk
 
 Class will be held for 1.5 hours, but the laboratories are reserved for an additional ½ hour if you have the desire to continue working.
 
-| REC # | TOPICS | RECITATION NOTES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Part One Constructing Arguments: Visual Representation and Analysis**{{< /td-colspan >}} |||
-| 1 | Macromedia® Dreamweaver® | ([PDF]({{< baseurl >}}/resources/rec1)) |
-| 2 | Adobe® Photoshop® | ([PDF]({{< baseurl >}}/resources/rec2)) |
-| 3 | Dreamweaver® and Photoshop® | ([PDF]({{< baseurl >}}/resources/rec3)) |
-| {{< td-colspan 3 >}}**Part Two Spatial Data Representation and Analysis**{{< /td-colspan >}} |||
-| 4 |  {{< br >}}{{< br >}} Microsoft® Excel {{< br >}}{{< br >}} Sample Data Microsoft® Excel {{< br >}}{{< br >}} Sample Data Microsoft® Access  {{< br >}}  {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/rec4))  {{< br >}}  {{< br >}}([XLS]({{< baseurl >}}/resources/rec4excel))  {{< br >}}  {{< br >}}([DBF]({{< baseurl >}}/resources/rec4database)) |
-| 5 |  {{< br >}}{{< br >}} ESRI ArcGIS™ Notes {{< br >}}{{< br >}} Slides {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/rec5))  {{< br >}}  {{< br >}}([PDF]({{< baseurl >}}/resources/rec5slides)) |
-| 6 | Microsoft® Access | ([PDF]({{< baseurl >}}/resources/rec6)) |
-| 7 | ArcGIS™ and Access | ([PDF]({{< baseurl >}}/resources/rec7)) |
-| {{< td-colspan 3 >}}**Part Three Presenting Visual Argument**{{< /td-colspan >}} |||
-| 8 | Introduction to Project 2 | ([PDF]({{< baseurl >}}/resources/rec8)) |
-| 9 | Project Work | ([PDF - 2.0 MB]({{< baseurl >}}/resources/rec9)) |
-| 10 | Project Work | ([PDF]({{< baseurl >}}/resources/rec10)) |
-| 11 | Project Work |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+REC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+RECITATION NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part One Constructing Arguments: Visual Representation and Analysis**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Macromedia® Dreamweaver®
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/rec1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Adobe® Photoshop®
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/rec2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Dreamweaver® and Photoshop®
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/rec3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part Two Spatial Data Representation and Analysis**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Microsoft® Excel
+
+Sample Data Microsoft® Excel
+
+Sample Data Microsoft® Access  
+ 
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/rec4))  
+  
+([XLS]({{< baseurl >}}/resources/rec4excel))  
+  
+([DBF]({{< baseurl >}}/resources/rec4database))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+ESRI ArcGIS™ Notes
+
+Slides
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/rec5))  
+  
+([PDF]({{< baseurl >}}/resources/rec5slides))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Microsoft® Access
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/rec6))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+ArcGIS™ and Access
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/rec7))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part Three Presenting Visual Argument**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Project 2
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/rec8))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Project Work
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 2.0 MB]({{< baseurl >}}/resources/rec9))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Project Work
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/rec10))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Project Work
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

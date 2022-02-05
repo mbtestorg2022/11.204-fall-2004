@@ -29,11 +29,48 @@ Final Project: The final project is a group project will constitute 30% of your 
 
 Finally, attendance and participation count: We expect to see you in class and expect that you will contribute to the conversation.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Lab Exercises | 50% |
-| Web-based Portfolio | 20% |
-| Final Project | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab Exercises
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Web-based Portfolio
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Project
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lateness Policy
 ---------------

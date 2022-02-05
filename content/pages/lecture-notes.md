@@ -10,18 +10,195 @@ During the first session of each week, the class focuses on the use of digital t
 
 Throughout the second part of the course, we address issues of spatial data representation and analytical mapping by examining the way in which communities collect, encode and display spatial data. Lorlene Hoyt, Assistant Professor of Technology & Planning will ask students to critically examine the role of geographic information systems in representing place, analyzing local conditions and mobilizing citizens.
 
-| Lec # | TOPICS | LECTURE NOTES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Part One: Constructing Arguments: Visual Representation and Analysis**{{< /td-colspan >}} |||
-| 1 | The Planner's Toolbox |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/lec1)) {{< br >}}{{< br >}} We will begin the course by asking questions. What do we mean by "planning?" What do we mean by "communication?" What do we mean by "digital media?" What does it mean to examine these three concepts simultaneously? We will turn to a discussion of the logistical and pedagogical aspects of the course, followed by a closing question. What is a web-based portfolio? To address this question, we will examine a variety of web-based portfolios designed by planning students and professionals as well as architects, landscape architects and artists. {{< br >}}{{< br >}}  |
-| 2 | Planning a Web Site |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/lec2)) {{< br >}}{{< br >}} There are many parallels between web site design, on the one hand, and urban design and city planning, on the other. This lecture will explore some of those similarities, as well as some of the uses of web sites in urban planning and community development. Together, we will examine a variety of web sites, including some with an effective design and some that are less successful. {{< br >}}{{< br >}}  |
-| 3 | The Photographic Essay |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/lec3)) {{< br >}}{{< br >}} Planners use a variety of tools to analyze problems and propose action. Typically, they rely on visual and verbal arguments to advocate their plans. To provide insights for your work in Central Square, this session will demonstrate how to construct cogent, persuasive visual arguments using photographic images. Specifically, it will highlight how photographs can tell a story and strategies for selecting and sequencing photographic images. {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Part Two: Spatial Data Representation and Analysis**{{< /td-colspan >}} |||
-| 4 | Change Over Time |  {{< br >}}{{< br >}} ([PDF - 1.4 MB]({{< baseurl >}}/resources/lec4)) {{< br >}}{{< br >}} To propose future action, planners collect, analyze, and synthesize many forms of data. So far, we have explored data that exist in the form of digital photographs and video, yet planners often utilize other tools to analyze problems and generate solutions. For example, data also exist in the form of numeric values and graphic images, thus computerized spreadsheets, databases, charting and mapping systems are important planning tools. {{< br >}}{{< br >}}  |
-| 5 | Top Down GIS |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/lec5)) {{< br >}}{{< br >}} The discussion will include a critical investigation of the way in which neighborhood information systems store, manipulate, and communicate information via the World Wide Web. Cities with advanced systems, such as Los Angeles and Philadelphia will provide useful insights. We will examine the process of transforming data to action with attention to the ethical and value choices that impact decision-making processes. {{< br >}}{{< br >}}  |
-| 6 | Bottom Up GIS |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/lec6)) {{< br >}}{{< br >}} This lecture examines the "bottom-up" production, collection, and use of local knowledge as well as the creation of Public Participation Geographic Information Systems (PPGIS). We will investigate the use of PPGIS in three national contexts. They are: Lawrence, Massachusetts; New Delhi, India; and Venice, Italy. These cases will highlight how PPGIS is used to involve traditionally marginalized populations in decision-making processes, generate appropriate solutions to community-based problems, and supplement government-led analyses. {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Part Three: Presenting Visual Arguments**{{< /td-colspan >}} |||
-| 7 | Web Portfolio Critique | ([PDF]({{< baseurl >}}/resources/lec7)) |
-| 8 | Optional Session - Spatial Data Acquisition via MassGIS: Lisa Sweeney, Guest Lecturer  | ([PDF]({{< baseurl >}}/resources/lec8_lisaswee_ho)) |
-| 9 | Optional Session - Capturing and Editing Digital Video | &nbsp; |
-| 10 | Optional session - Advanced Photoshop® and Dreamweaver® |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LECTURE NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part One: Constructing Arguments: Visual Representation and Analysis**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+The Planner's Toolbox
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/lec1))
+
+We will begin the course by asking questions. What do we mean by "planning?" What do we mean by "communication?" What do we mean by "digital media?" What does it mean to examine these three concepts simultaneously? We will turn to a discussion of the logistical and pedagogical aspects of the course, followed by a closing question. What is a web-based portfolio? To address this question, we will examine a variety of web-based portfolios designed by planning students and professionals as well as architects, landscape architects and artists.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Planning a Web Site
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/lec2))
+
+There are many parallels between web site design, on the one hand, and urban design and city planning, on the other. This lecture will explore some of those similarities, as well as some of the uses of web sites in urban planning and community development. Together, we will examine a variety of web sites, including some with an effective design and some that are less successful.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+The Photographic Essay
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/lec3))
+
+Planners use a variety of tools to analyze problems and propose action. Typically, they rely on visual and verbal arguments to advocate their plans. To provide insights for your work in Central Square, this session will demonstrate how to construct cogent, persuasive visual arguments using photographic images. Specifically, it will highlight how photographs can tell a story and strategies for selecting and sequencing photographic images.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part Two: Spatial Data Representation and Analysis**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Change Over Time
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF - 1.4 MB]({{< baseurl >}}/resources/lec4))
+
+To propose future action, planners collect, analyze, and synthesize many forms of data. So far, we have explored data that exist in the form of digital photographs and video, yet planners often utilize other tools to analyze problems and generate solutions. For example, data also exist in the form of numeric values and graphic images, thus computerized spreadsheets, databases, charting and mapping systems are important planning tools.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Top Down GIS
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/lec5))
+
+The discussion will include a critical investigation of the way in which neighborhood information systems store, manipulate, and communicate information via the World Wide Web. Cities with advanced systems, such as Los Angeles and Philadelphia will provide useful insights. We will examine the process of transforming data to action with attention to the ethical and value choices that impact decision-making processes.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Bottom Up GIS
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/lec6))
+
+This lecture examines the "bottom-up" production, collection, and use of local knowledge as well as the creation of Public Participation Geographic Information Systems (PPGIS). We will investigate the use of PPGIS in three national contexts. They are: Lawrence, Massachusetts; New Delhi, India; and Venice, Italy. These cases will highlight how PPGIS is used to involve traditionally marginalized populations in decision-making processes, generate appropriate solutions to community-based problems, and supplement government-led analyses.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part Three: Presenting Visual Arguments**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Web Portfolio Critique
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec7))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Optional Session - Spatial Data Acquisition via MassGIS: Lisa Sweeney, Guest Lecturer 
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec8_lisaswee_ho))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Optional Session - Capturing and Editing Digital Video
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Optional session - Advanced Photoshop® and Dreamweaver®
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

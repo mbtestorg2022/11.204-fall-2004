@@ -10,13 +10,119 @@ In addition to attending recitations, you should work through the lab exercises 
 
 **For every lab, there is an associated help file for you to reference.**
 
-| SES # | TOPICS | HELP FILES |
-| --- | --- | --- |
-| Lab 1 | WWW Portal Page Building ([PDF]({{< baseurl >}}/resources/lab1)) | ([PDF]({{< baseurl >}}/resources/lab1_help)) |
-| Lab 2 | Visual Representation and Analysis of Place ([PDF]({{< baseurl >}}/resources/lab2)) | ([PDF]({{< baseurl >}}/resources/lab2_help)) |
-| Lab 3 | Using Excel to Understand Population Change ([PDF]({{< baseurl >}}/resources/lab3)) | ([PDF - 2.7 MB]({{< baseurl >}}/resources/lab3_help)) |
-| Lab 4 | Using ArcGIS™ to Visualize Population Density ([PDF]({{< baseurl >}}/resources/lab4)) | ([PDF - 2.8 MB]({{< baseurl >}}/resources/lab4_help)) |
-| Lab 5 | Using Access to Query Multiple Data Sets ([PDF]({{< baseurl >}}/resources/lab5)) | ([PDF - 1.6 MB]({{< baseurl >}}/resources/lab5_help)) |
-| Lab 6 | Using GIS Tools to Compare Two Aspects of Central Square ([PDF]({{< baseurl >}}/resources/lab6)) | ([PDF - 2.2 MB]({{< baseurl >}}/resources/lab6_help)) |
-| Project 1 | Web-based Planning Portfolio ([PDF]({{< baseurl >}}/resources/proj1)) | &nbsp; |
-| Project 2 | Exploring, Analyzing, and Describing a Massachusetts Town ([PDF]({{< baseurl >}}/resources/proj2))  {{< br >}}  {{< br >}}Evaluation Criteria ([PDF]({{< baseurl >}}/resources/proj2_eval_crit)) |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+HELP FILES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 1
+{{< tdclose >}}
+{{< tdopen >}}
+WWW Portal Page Building ([PDF]({{< baseurl >}}/resources/lab1))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lab1_help))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 2
+{{< tdclose >}}
+{{< tdopen >}}
+Visual Representation and Analysis of Place ([PDF]({{< baseurl >}}/resources/lab2))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lab2_help))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 3
+{{< tdclose >}}
+{{< tdopen >}}
+Using Excel to Understand Population Change ([PDF]({{< baseurl >}}/resources/lab3))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 2.7 MB]({{< baseurl >}}/resources/lab3_help))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 4
+{{< tdclose >}}
+{{< tdopen >}}
+Using ArcGIS™ to Visualize Population Density ([PDF]({{< baseurl >}}/resources/lab4))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 2.8 MB]({{< baseurl >}}/resources/lab4_help))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 5
+{{< tdclose >}}
+{{< tdopen >}}
+Using Access to Query Multiple Data Sets ([PDF]({{< baseurl >}}/resources/lab5))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.6 MB]({{< baseurl >}}/resources/lab5_help))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 6
+{{< tdclose >}}
+{{< tdopen >}}
+Using GIS Tools to Compare Two Aspects of Central Square ([PDF]({{< baseurl >}}/resources/lab6))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 2.2 MB]({{< baseurl >}}/resources/lab6_help))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project 1
+{{< tdclose >}}
+{{< tdopen >}}
+Web-based Planning Portfolio ([PDF]({{< baseurl >}}/resources/proj1))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project 2
+{{< tdclose >}}
+{{< tdopen >}}
+Exploring, Analyzing, and Describing a Massachusetts Town ([PDF]({{< baseurl >}}/resources/proj2))  
+  
+Evaluation Criteria ([PDF]({{< baseurl >}}/resources/proj2_eval_crit))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
